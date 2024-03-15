@@ -1,0 +1,1 @@
+performing text classification into five distinct classes using the Stanford Sentiment Treebank (SST)dataset. The task involves employing two different classification approaches: Naive Bayes and Logistic Regression using numpy only. Additionally, there is a third part dedicated to evaluation by confusion matrix using numpy only also
